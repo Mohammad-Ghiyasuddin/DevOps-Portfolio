@@ -32,7 +32,7 @@ const lines = [
   { id: 'tl3', text: '<span class="cmd">$ </span><span class="out">whoami</span>' },
   { id: 'tl4', text: '<span class="out">Mohammad Gayasuddin — DevOps Engineer 🚀</span>' },
   { id: 'tl5', text: '<span class="cmd">$ </span><span class="out">uptime --since career</span>' },
-  { id: 'tl6', text: '<span class="out">1.5 years | AWS, GCP, Docker, K8s, CI/CD</span>' },
+  { id: 'tl6', text: '<span class="out">2 years | AWS, GCP, Docker, K8s, CI/CD</span>' },
 ];
 
 function typeWriter(el, html, speed, cb) {
